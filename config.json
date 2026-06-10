@@ -68,5 +68,25 @@
       "dueDate": "2026-07-10",
       "attachments": []
     }
+    ,
+    {
+      "id": "dockerize-api",
+      "title": "Containerize uma API Python com Docker",
+      "description": "Containerize uma aplicação FastAPI usando Docker; construir, executar e testar localmente.",
+      "path": "assignments/dockerize-api",
+      "dueDate": "2026-07-20",
+      "attachments": [
+        {
+          "name": "Starter Files",
+          "file": "app/main.py",
+          "type": "python"
+        },
+        {
+          "name": "Dockerfile",
+          "file": "Dockerfile",
+          "type": "docker"
+        }
+      ]
+    }
   ]
 }
